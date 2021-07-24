@@ -1,6 +1,6 @@
 # RLE-TXT-Pictures
 
-RLE \ TXT format create, save and open picture CLI commanded.
+RLE \ TXT format create, save and open picture CLI commanded.\n
 Command list:
 
  open_RLE_picture
